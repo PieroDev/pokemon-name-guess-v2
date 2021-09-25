@@ -1,0 +1,6 @@
+Lo siguiente que hay que hacer:
+
+1.- Hacer que la letra de la pista no se repita o si se repite en el generador, esta sea generada nueva hasta que no sea repetida.
+    (Se podria hacer con un contains o algo por el estilo)
+2.- Hacer que solo se pueda pedir tres pistas, en caso de usar las tres, deshabilitar el boton de Hints.
+3.- Releer y tratar de ordenar el codigo, sacar logs de consola y todo.
